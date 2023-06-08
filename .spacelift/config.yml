@@ -1,0 +1,11 @@
+version: "1"
+
+stack_defaults:
+    runner_image: 
+    before_init:
+
+
+stacks:
+    configfile: 
+        environment:
+            AWS_REGION: eu-west-1
